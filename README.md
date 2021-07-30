@@ -8,7 +8,7 @@ In this repository, I am uploading some of my presentations to be share with the
 Sesión realizada el 29 de Julio, 2021.Organizado por la colaboración de RLadies Santiago, Valaparaíso, Talca, Concepción. 
 Idioma (language): Español (Spanish).
  
-💻 [Project Presentation](pdf/20210729datafeminism_3.pdf "Project Presentation PDF")
+💻 [Slides](20210729datafeminism_3.pdf "Project Presentation PDF")
 
 #### Para contactarme // Contact information:
 🌻 [Twitter](https://twitter.com/FranciscaOrtizR)
